@@ -2,4 +2,9 @@ Soundcloud @@@ https://soundcloud.com/
 Bandcamp @@@ https://player.bandcamp.com/
 Radiogarden @@@ http://radio.garden/
 Radiostream Directory @@@ http://fmstream.org/
-
+Live air traffic @@@ https://www.liveatc.net/
+World radio map @@@ https://worldradiomap.com/
+SomaFM @@@ https://somafm.com/player/#/all-stations
+Internet radio @@@ https://www.internet-radio.com/
+Global streaming @@@ http://media-ice.musicradio.com/
+Stream finder @@@ https://streamfinder.com/
