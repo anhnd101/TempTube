@@ -8,3 +8,5 @@ SomaFM @@@ https://somafm.com/player/#/all-stations
 Internet radio @@@ https://www.internet-radio.com/
 Global streaming @@@ http://media-ice.musicradio.com/
 Stream finder @@@ https://streamfinder.com/
+FreesoundOrg @@@ https://freesound.org/
+Online radio box @@@ https://onlineradiobox.com/
